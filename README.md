@@ -9,7 +9,7 @@ Bias Mitigation Techniques:
 
 **Implemented:**
 
-Hyperparameter Tuning: Improved accuracy and precision
+Hyperparameter Tuning: Improved accuracy and precision 
 Exponentiated Gradient (EG): Reduced bias while maintaining performance.
 Threshold Optimizer (TO): Minimized FNR while maximizing recall.
 
